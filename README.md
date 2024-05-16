@@ -1,4 +1,4 @@
-API de Cadastro Escolar
+# API de Cadastro Escolar
 Este projeto consiste em uma API para cadastro de alunos e professores, oferecendo endpoints para realizar operações como cadastro, listagem, atualização e exclusão de registros.
 
 Pacotes Utilizados
